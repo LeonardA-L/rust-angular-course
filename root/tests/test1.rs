@@ -25,5 +25,4 @@ fn test_sum_of_primes_lesson2() {
 	assert_eq!(328, root::sum_prime::sum_prime(50));
 	assert_eq!(1060, root::sum_prime::sum_prime(100));
 	assert_eq!(1264, root::sum_prime::sum_prime(103));
-	assert_eq!(5736396, root::sum_prime::sum_prime(1000));
 }
