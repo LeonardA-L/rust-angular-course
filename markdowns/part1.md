@@ -9,10 +9,10 @@ Write an `isPrime` function that takes an `i32` number as parameter and returns 
 * Can only be divided by `1` and itself
 * Is greater than `1`
 
-@[Write the isPrime function]({"stubs": ["src/is_prime/mod.rs"], "command": "cd /project/target/ && cargo test lesson1"})
+@[Write the isPrime function]({"stubs": ["src/is_prime/mod.rs"], "command": "/bin/bash 'cd /project/target/ && cargo test lesson1'"})
 
 # Sum all primes
 
 Write a `sumPrimes` function to sum all prime numbers up to the parameter `limit` *included*. Copy you `isPrime` function from the last assignment to make use of it
 
-@[Write the sumPrimes function]({"stubs": ["src/sum_prime/mod.rs"], "command": "cd /project/target/ && cargo test lesson1"})
+@[Write the sumPrimes function]({"stubs": ["src/sum_prime/mod.rs"], "command": "/bin/bash 'cd /project/target/ && cargo test lesson1'"})
