@@ -1,9 +1,7 @@
-title : Content name
+title : Rust Sum primes
 plan:
-  - title: Part 1
+  - title: Sum prime numbers
     statement: markdowns/part1.md
-  - title: Part 2
-    statement: markdowns/part2.md
 projects:
   rust:
    root: root
