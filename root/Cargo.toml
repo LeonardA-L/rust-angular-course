@@ -1,0 +1,6 @@
+[package]
+name = "root"
+version = "0.1.0"
+authors = ["Leonard Allain-Launay <leonard@codingame.com>"]
+
+[dependencies]
